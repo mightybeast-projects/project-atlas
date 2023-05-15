@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58c45750804bab9ba947f2cb9515f9, type: 3}
+  m_Name: Brawler
+  m_EditorClassIdentifier: 
+  _name: Brawler
+  _sprite: {fileID: 21300000, guid: 232bbcef1aee1ec4aacd98ae454008fe, type: 3}
+  _affix: {fileID: 11400000, guid: 0113b31703387b54f82182cf204e3527, type: 2}
+  _affixDescription: + 100 to MAXIMUM_HEALTH
+  _parentDatas:
+  - {fileID: 11400000, guid: 1dc7529d50ac87a41a97456955c5f5fc, type: 2}
+  _childDatas:
+  - {fileID: 11400000, guid: 07ef09137e4e98346891d98c0d856856, type: 2}

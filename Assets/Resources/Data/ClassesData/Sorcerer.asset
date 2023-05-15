@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58c45750804bab9ba947f2cb9515f9, type: 3}
+  m_Name: Sorcerer
+  m_EditorClassIdentifier: 
+  _name: Sorcerer
+  _sprite: {fileID: 21300000, guid: 0dbd4af72de609540a6e37839d4abcb9, type: 3}
+  _affix: {fileID: 11400000, guid: 1cff1c84034800c4f9eec0c9395ff784, type: 2}
+  _affixDescription: + 25 to ELEMENTAL_DAM
+  _parentDatas:
+  - {fileID: 11400000, guid: e15839d4d417d9046be9fb2e17d3bc98, type: 2}
+  _childDatas:
+  - {fileID: 11400000, guid: 72d64ae8afa13454eace60f5ecfd996b, type: 2}

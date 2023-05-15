@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58c45750804bab9ba947f2cb9515f9, type: 3}
+  m_Name: Healer
+  m_EditorClassIdentifier: 
+  _name: Healer
+  _sprite: {fileID: 21300000, guid: 4edca7deaa46d0f499918f225c21df93, type: 3}
+  _affix: {fileID: 11400000, guid: b6d2845191fbd9a4abd7290c1089f058, type: 2}
+  _affixDescription: + 10 to HOLY_DAM
+  _parentDatas:
+  - {fileID: 11400000, guid: e15839d4d417d9046be9fb2e17d3bc98, type: 2}
+  _childDatas:
+  - {fileID: 11400000, guid: ffe72cfcfcbae8c4d998f21171591268, type: 2}
+  - {fileID: 11400000, guid: 28988430619785a42b35b9c9dc54e9fa, type: 2}

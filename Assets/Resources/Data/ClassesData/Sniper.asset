@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58c45750804bab9ba947f2cb9515f9, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  _name: Sniper
+  _sprite: {fileID: 21300000, guid: b150734c49f03934b81d8a3df1d9e318, type: 3}
+  _affix: {fileID: 11400000, guid: 9b91977a07ab07b40b9b6a60fd3244f8, type: 2}
+  _affixDescription: + 100% to CRIT_CHANCE
+  _parentDatas:
+  - {fileID: 11400000, guid: d4c1f57bb778aa345b7cd3b88c2056c5, type: 2}
+  _childDatas: []

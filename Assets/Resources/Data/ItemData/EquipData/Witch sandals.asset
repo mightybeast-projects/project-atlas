@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37419c8a9024e00ad47f56fe69b6041, type: 3}
+  m_Name: Witch sandals
+  m_EditorClassIdentifier: 
+  _name: Witch sandals
+  _sprite: {fileID: 21300000, guid: bc8facf2d6b9a454fb3245a1fa902875, type: 3}
+  _affix: {fileID: 11400000, guid: 6caf2213ca7ef04428697e0ffee73628, type: 2}
+  _affixEffect: + 10 to chaos damage

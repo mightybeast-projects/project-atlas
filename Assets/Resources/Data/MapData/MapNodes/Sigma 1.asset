@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4765b65be34eb090ccb8181fcdd8b8, type: 3}
+  m_Name: Sigma 1
+  m_EditorClassIdentifier: 
+  _name: Sigma1
+  _biome: 3
+  _hasPortal: 0
+  _isBossNode: 0
+  _exitSides: 0100000003000000
+  _connections:
+  - {fileID: 11400000, guid: 0e95a2da9b9617a479bd3a3ae416b041, type: 2}
+  - {fileID: 11400000, guid: fc64429af472d7e489f15f4eb6b1c708, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57a7fd3b32974390a18bdf0afb270cae, type: 3}
+  m_Name: SummonDamageAccuracy30f70p
+  m_EditorClassIdentifier: 
+  _description: '+ 30 to SUMMON_DAM
+
+    + 70% to ACCURACY'
+  _summonDamageValue: 30
+  _summonDamageValueType: 0
+  _accuracyValue: 70
+  _accuracyValueType: 1

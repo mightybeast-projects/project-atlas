@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58c45750804bab9ba947f2cb9515f9, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  _name: Knight
+  _sprite: {fileID: 21300000, guid: 05ba20dd1f202c04a96c45f0c02e40b3, type: 3}
+  _affix: {fileID: 11400000, guid: 17a645dfeb3c10e4fbf0d8e28fe1079f, type: 2}
+  _affixDescription: + 5% to DEFLECT
+  _parentDatas:
+  - {fileID: 11400000, guid: 1dc7529d50ac87a41a97456955c5f5fc, type: 2}
+  _childDatas:
+  - {fileID: 11400000, guid: eab9001e3b79d914eb5a1c7c462ae40c, type: 2}
+  - {fileID: 11400000, guid: ffe72cfcfcbae8c4d998f21171591268, type: 2}

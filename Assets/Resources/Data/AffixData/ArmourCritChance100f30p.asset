@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfbebf4c85a4471c8fe1cbf8a2e2ebaa, type: 3}
+  m_Name: ArmourCritChance100f30p
+  m_EditorClassIdentifier: 
+  _description: '+ 100 to ARMOUR
+
+    + 30% to CRIT_CHANCE'
+  _armourValue: 100
+  _armourValueType: 0
+  _critChanceValue: 30

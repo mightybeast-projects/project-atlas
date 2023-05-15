@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cc28dff6a1faa44db0ce57b46548c29, type: 3}
+  m_Name: PlayerCharacter
+  m_EditorClassIdentifier: 
+  _inventory: {fileID: 11400000, guid: 9acd67eb2f10efd489f3b695aa4274eb, type: 2}
+  _prismStonePouch: {fileID: 11400000, guid: aeafcf729c55b134699eb27c4255c238, type: 2}
+  _stats: {fileID: 11400000, guid: 4594093b0ee023c46a01ac515c0d9c2a, type: 2}
+  _maxHealth: {fileID: 11400000, guid: 1f6d17187cc3ad24c9579bd633c7ebc0, type: 2}
+  _currentHealth: {fileID: 11400000, guid: 97b319c0864d0f34fbe3600a42671d2a, type: 2}
+  _onPlayerCurrentHealthChanged: {fileID: 11400000, guid: ae46466a49f2414419f9450cea154324,
+    type: 2}
+  _onPlayerStatsChanged: {fileID: 11400000, guid: 31708d4c1bb31ba49bb59bc8ec102fe7,
+    type: 2}
+  _onPlayerDied: {fileID: 11400000, guid: ecbdc9e8945d1de4d85447c4ceb8e6c1, type: 2}

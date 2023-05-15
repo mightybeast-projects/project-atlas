@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21fa78433e148efb8e0dc3671722c9b, type: 3}
+  m_Name: DeflectHoly10p15f
+  m_EditorClassIdentifier: 
+  _description: '+ 10% to DEFLECT
+
+    + 15 to HOLY_DAM'
+  _deflectValue: 10
+  _deflectValueType: 1
+  _holyDamageValue: 15
+  _holyDamageValueType: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58c45750804bab9ba947f2cb9515f9, type: 3}
+  m_Name: Assasin
+  m_EditorClassIdentifier: 
+  _name: Assasin
+  _sprite: {fileID: 21300000, guid: e4d9fb6ae6fe5db42b64b403ddf70779, type: 3}
+  _affix: {fileID: 11400000, guid: 8a631d1ca028b8749b25f81b2900de3c, type: 2}
+  _affixDescription: + 25% to MOVEMENT_SPEED
+  _parentDatas:
+  - {fileID: 11400000, guid: 4bd0c75626dd1ed4793a9bd8c688504b, type: 2}
+  _childDatas: []
